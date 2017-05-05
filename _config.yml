@@ -1,12 +1,12 @@
 # Site Settings
 title: Jekyll & Bootstrap 4
-email: psauerbeck@gmail.com
+email: dmcdonald1982@gmail.com
 description: >
   Jekyll & Bootstrap 4
-baseurl: "/jekyll-bootstrap-4"
-url: "http://pmsaue0.github.io"
+baseurl: "/personal"
+url: "http://dmcdonald1982.github.io"
 twitter_username:
-github_username:  pmsaue0
+github_username:  dmcdonald1982
 # Build Settings
 sass:
   sass_dir:
